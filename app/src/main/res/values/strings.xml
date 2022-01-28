@@ -1,0 +1,50 @@
+<resources>
+    <!-- Main -->
+    <string name="app_name">Main</string>
+    <string name="welcome">Welcome !!</string>
+    <string name="mainRegisterButton">Register</string>
+
+    <!-- Registration -->
+    <!-- Name-->
+    <string name="registrationNamelabel">Name:</string>
+    <string name="registrationNameInput">Enter Name</string>
+    <!-- Email-->
+    <string name="registrationEmaillabel">Email:</string>
+    <string name="registrationEmailInput">Enter Email</string>
+    <!-- Id-->
+    <string name="registrationIdlabel">ID:</string>
+    <string name="registrationIdInput">Enter ID</string>
+    <!-- Dept-->
+    <string name="registrationDeptlabel">Dept:</string>
+    <!-- Registration Buttons-->
+    <string name="registrationSelectButton">Select</string>
+    <string name="registrationSubmitButton">Submit</string>
+
+    <string name="registrationDeptReturnResults"></string>
+
+    <!-- Department -->
+    <!-- Radio-->
+    <string name="departmentCompSciRadio">Computer Science</string>
+    <string name="departmentSoftInfoSysRadio">Software Info. Systems</string>
+    <string name="departmentBioInformaticsRadio">Bio Informatics</string>
+    <string name="departmentDataSciRadio">Data Science</string>
+
+    <string name="deptSelectButton">Select</string>
+    <string name="deptCancelButton">Cancel</string>
+
+    <!-- Profile -->
+
+    <!-- Name-->
+    <string name="profileNamelabel">Name:</string>
+    <string name="profileNameResults"></string>
+    <!-- Email-->
+    <string name="profileEmaillabel">Email:</string>
+    <string name="profileEmailResults"></string>
+    <!-- Id-->
+    <string name="profileIdlabel">ID:</string>
+    <string name="profileIdResults"></string>
+    <!-- Dept-->
+    <string name="profileDeptlabel">Dept:</string>
+    <string name="profileDeptResults"></string>
+
+</resources>
